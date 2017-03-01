@@ -1,4 +1,6 @@
 ﻿using System;
+using CtciExercises.ArraysAndStrings;
+using CtciExercises.ThreadsAndLocks;
 
 namespace ConsoleApplication
 {
@@ -6,7 +8,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(UrlIfy.FindLastChar("0123456 8901    "));
         }
     }
 }
