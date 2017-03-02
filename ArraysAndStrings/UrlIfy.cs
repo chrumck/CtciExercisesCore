@@ -2,7 +2,7 @@ using System.Text.RegularExpressions;
 
 namespace CtciExercises.ArraysAndStrings
 {
-   public static class UrlIfy
+   public  class UrlIfy
    {
       public static int FindLastChar(string input)
       {
